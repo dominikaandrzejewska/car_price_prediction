@@ -1,4 +1,11 @@
 # Car Prices Prediction with ML
 
 Day 2
--import of a car database, visualizing prices grouped by chosen features such as car brand, color or country of origin
+
+Day2_visualisation.ipynb
+- import of a car database, visualizing prices grouped by chosen features such as car brand, color or country of origin
+
+Day 3
+
+Day3_simple_model.ipynb
+- factorizing features and using them to build a ML car price prediction model
