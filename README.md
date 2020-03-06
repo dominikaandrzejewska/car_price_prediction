@@ -14,3 +14,7 @@ Day 4
 
 Day4.ipynb
 - improving the quality of the model using XGBoost
+
+Day 5
+
+- parameters optimalisation with Hyperopt
